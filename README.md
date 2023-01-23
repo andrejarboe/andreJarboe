@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrejarboe" alt="andrejarboe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/andrevshimself" target="blank"><img src="https://img.shields.io/twitter/follow/andrevshimself?logo=twitter&style=for-the-badge" alt="andrevshimself" /></a> </p>
+
 
 - 🌱 I’m currently learning **C++**
 
