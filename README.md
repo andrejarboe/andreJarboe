@@ -1,17 +1,20 @@
-<h1>Hi, I'm Andre, an <a href="https://www.linkedin.com/in/andre-jarboe-ii/">IT Professional</a>☺</h1>
+# Hi, I'm Andre, an [IT Professional](https://www.linkedin.com/in/andrejarboeII)  
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 👨‍💻 Information Technology Projects
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- **osTicket (Help Desk Ticketing System**
   - [osTicket: Prerequisites and Installation](https://github.com/andrejarboe/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/andrejarboe/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/andrejarboe/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+<!-- 
+  - osTicket: Post-Installation Configuration
+  - osTicket: Ticket Lifecycle Examples 
+-->
+  
+- **Microsoft Azure**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andrejarboe/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrejarboe/azure-network-protocols)
+<!--
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrejarboe/azure-network-protocols) 
+-->
 
-<h2>🤳Connect with me:</h2>
+## 🤳Connect with me:
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/andre-jarboe-ii/
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="80" height="80" />
