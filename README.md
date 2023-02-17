@@ -5,11 +5,8 @@
 - **osTicket (Help Desk Ticketing System**
   - [osTicket: Prerequisites and Installation](https://github.com/andrejarboe/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/andrejarboe/osTicket-post-install-config)
-<!-- 
-  - osTicket: Post-Installation Configuration
-  - osTicket: Ticket Lifecycle Examples 
--->
-  
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/andrejarboe/osTicket-lifecycle)
+
 - **Microsoft Azure**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andrejarboe/configure-ad)
 <!--
